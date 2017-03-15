@@ -24,5 +24,6 @@ CREATE TABLE school_capture (
 	`selectivity_rating` INTEGER(3) DEFAULT NULL,
 	`deadline_early` DATE DEFAULT NULL,
 	`deadline_late` DATE DEFAULT NULL,
+	`created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY (`school_id`, `batch`)
 );

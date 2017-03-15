@@ -35,7 +35,7 @@ Looking at the website, there are several pieces of information we may wish to c
 
 * University name
 * Website URL
-* # appliants
+* \# Applicants
 * Acceptance rate
 * SAT scores
 * ACT scores
